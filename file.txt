@@ -10,3 +10,5 @@ ABC This is a text file. 123 ABC
 It has 10 lines.
 
 I have made a new change here
+
+I have made another change
